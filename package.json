@@ -1,6 +1,6 @@
 {
   "name": "herux-action",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Action creator and extractor for Herux (or any other Flux framework)",
   "main": "index.js",
   "scripts": {
